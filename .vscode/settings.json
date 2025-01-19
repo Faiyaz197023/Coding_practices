@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "ENUMS.C": "cpp",
+        "stdio.h": "c",
+        "string.h": "c"
+    }
+}
